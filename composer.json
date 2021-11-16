@@ -19,7 +19,7 @@
     },
     "require": {
         "php": "^8.0",
-        "fakerphp/faker": "dev-master"
+        "fakerphp/faker": "^1.16"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
